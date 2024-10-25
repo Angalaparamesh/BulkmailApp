@@ -9,4 +9,4 @@ Database: MongoDB
 Email API: SendGrid (or other email service)
 Authentication: JWT (JSON Web Tokens)
 
-Checkout link:[]
+Checkout link:[https://bulkmail-app-blond.vercel.app/]
